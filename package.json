@@ -11,6 +11,6 @@
   "dependencies": {
     "@google-cloud/datastore": "^3.0.1",
     "@google-cloud/storage": "^3.0.1",
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   }
 }
